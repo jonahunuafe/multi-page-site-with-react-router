@@ -1,6 +1,6 @@
 function ProductPage() {
     return (
-        <hi>The Products Page</hi>
+        <h1>The Products Page</h1>
     );
 }
 
